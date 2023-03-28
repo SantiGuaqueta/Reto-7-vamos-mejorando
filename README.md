@@ -1,5 +1,7 @@
 # Reto-7-vamos-mejorando
 
+El dia de hoy realizaremos el reto 7 y mostraremos nuestro gran avance en programacion ya no somos tan malos como antes vamos mejorando asi que empecemos.
+
 
 1. Imprimir un listado con los números del 1 al 100 cada uno con su respectivo cuadrado.
 
@@ -20,3 +22,5 @@ la de A.
 6. Implementar un algoritmo que permita adivinar un número dado de 1 a 100, preguntando en cada caso si el número es mayor, menor o igual.
 7. Implementar un programa que ingrese un número de 2 a 50 y muestre sus divisores.
 8. Implementar el algoritmo que muestre los números primos del 1 al 100. **nota:** use funciones
+## Nota
+Cada puto se subio aparte para revisarlos se debe entrar a cada archivo copiar y pegar el codigo y provar en su notebook o en su archivo python que tenga abierto.
